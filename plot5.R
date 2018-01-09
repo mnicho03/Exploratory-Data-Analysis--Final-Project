@@ -1,4 +1,4 @@
-# Plot 4: How have emissions from motor vehicle sources changed from 1999-2008 in Baltimore City?
+# Plot 5: How have emissions from motor vehicle sources changed from 1999-2008 in Baltimore City?
 
 # zip file with both RDS files extracted to working directory
 
